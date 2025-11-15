@@ -1,0 +1,3 @@
+[submodule "smixml"]
+	path = smixml
+	url = https://github.com/LochieR/smixml
